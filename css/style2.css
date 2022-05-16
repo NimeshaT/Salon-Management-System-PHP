@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.carousel-item{
+    max-height:550px;
+}
+.carousel-item img{
+    max-height:550px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #FCC201;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:#B78628 ;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color:#FCC201 ;
+}
+

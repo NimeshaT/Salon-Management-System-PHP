@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*.list{
+    display: inline-block;
+}*/
+.carousel-item{
+    max-height:550px;
+}
+.carousel-item img{
+    max-height:550px;
+}
+/* .nav-link.active {
+    color: #B78628!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #FCC201 !important;
+}*/

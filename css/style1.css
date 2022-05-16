@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*.nav a{
+    color: #DAA520;    
+}*/
+/*.nav{
+    
+}*/
+/*.nav ul li{
+    display: inline-block;  
+}*/
+
+/*.nav >.active >.a{
+    color: green;
+}*/
+
+/*.list{
+    display: inline-block;
+}*/
+.carousel-item{
+    max-height:550px;
+}
+.carousel-item img{
+    max-height:550px;
+}
+
+
